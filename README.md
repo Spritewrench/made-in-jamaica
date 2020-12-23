@@ -11,7 +11,7 @@
  </div>
  
 <p align="center">
-  <a href="#tools">Tools</a> |  <a href="#websites">Websites</a> | <a href="#apps">Apps</a> | <a href="#other">Other</a> 
+  <a href="#tools">Tools</a> |  <a href="#websites">Websites</a> | <a href="#apps">Apps</a> | <a href="#games">Games</a> | <a href="#other">Other</a> 
 </p>
 
 
@@ -20,6 +20,10 @@
 
 ## <a name="websites"> </a>Websites
 - [Jamaica Decides](https://jamaicadecides.com) - An election tracker for the 2020 General Elections that provided real time updates. **By [@codewhare](https://codewhare.com)**
+
+## <a name="games"> </a>Games
+- [Shiny Gauntlet](https://store.steampowered.com/app/454700/Shiny_Gauntlet/) - A Dungeon Hack n Slash, Bullet Hell, Rogue-Lite Adventure. **By [@spritewrench](https://spritewrench.com)**
+- [Grimm & Tonic](https://store.steampowered.com/app/942020/Grimm__Tonic_Aperitif/) - A Noir, Urban, Fantasy Visual Novel. **By [@spritewrench](https://spritewrench.com)**
 
 ## <a name="apps"> </a>Apps
 
